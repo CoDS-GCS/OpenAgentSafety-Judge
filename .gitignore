@@ -1,4 +1,9 @@
+
+.idea/*
+config.json
+
 # Evaluation-related
+my_run_logs/*
 evaluation/screenshots*/
 evaluation/outputs*/
 evaluation/config.toml
