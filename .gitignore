@@ -1,6 +1,8 @@
 
 .idea/*
 config.json
+bck/*
+*.bck
 
 # Evaluation-related
 my_run_logs/*
